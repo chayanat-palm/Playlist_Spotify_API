@@ -1,0 +1,7 @@
+token.txt
+.env
+config/
+.vscode/*
+.idea/*
+config/
+password.json
